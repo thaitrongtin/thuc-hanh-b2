@@ -1,0 +1,12 @@
+{
+    "users" : {
+        "id": 1,
+        "student" : [ {
+            "MSSV": 20093421,
+            "name": "Trong tin",
+            "MSSV": 20004585,
+            "name": "Tongas"
+        }
+        ]
+    }
+}
