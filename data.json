@@ -1,10 +1,39 @@
 {
-    "posts": [
-      { "id": 1, "title": "Bài viết 1 có trọng tín" },
-      { "id": 2, "title": "Bài viết 2 vẫn có trọng tín" },
-      { "id": 1, "body": "Bình luận 1 không có trọng tín" },
-      { "id": 2, "body": "Bình luận 2 không có trọng tín" }
-    ]
-
-  }
-  
+  "posts": [
+    {
+      "id": 1,
+      "title": "Bài viết 1 có trọng tín"
+    },
+    {
+      "id": 2,
+      "title": "Bài viết 2 vẫn có trọng tín"
+    },
+    {
+      "id": 1,
+      "body": "Bình luận 1 không có trọng tín"
+    },
+    {
+      "id": 2,
+      "body": "Bình luận 2 không có trọng tín"
+    },
+    {
+      "firstname": "John",
+      "lastname": "Snow",
+      "id": 3
+    },
+    {
+      "firstname": "John",
+      "lastname": "Snow",
+      "id": 4
+    },
+    {
+      "firstname": "John",
+      "lastname": "Snow",
+      "id": 5
+    },
+    {
+      "id": "John",
+      "lastname": "Snow"
+    }
+  ]
+}
