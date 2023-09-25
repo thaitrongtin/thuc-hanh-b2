@@ -1,0 +1,14 @@
+{
+    "weathers" : 
+        [{"area": "Go Vap",
+        "state": "Rain"}
+    ,
+    {"area": "Tan Phu",
+        "state": "Rain"},
+        {"area": "Phu nhuan",
+        "state": "Sun"}
+        ,{"area": "Binh Tam",
+        "state": "Rain"}
+]
+    
+}
